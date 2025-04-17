@@ -1,6 +1,6 @@
 # 📊 VideoVue YouTube Bot: A YouTube Engagement Improvement Tool
 
-More info about YouTube Bot https://bit.ly/4cCfZhN
+# More info about YouTube Bot https://bit.ly/4cCfZhN
 
 ## Table of Contents
 - [Overview](#overview)
